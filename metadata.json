@@ -1,0 +1,6 @@
+{
+  "name": "Event Management Portal",
+  "description": "Enterprise Event Management Portal with Spring Boot Java 21 REST API architecture, MySQL schema, Admin Dashboard, QR Code tickets, Excel export, and complete UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
